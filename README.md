@@ -1,6 +1,6 @@
 # 📻 BetterRadioBattery
 
-A plugin for [EXILED](https://github.com/Exiled-Team/EXILED) that enhances the behavior of radio batteries in SCP: Secret Laboratory. It allows you to control how quickly radios drain and disables recharging them with battery items.
+A plugin for [EXILED](https://github.com/ExMod-Team/EXILED) that enhances the behavior of radio batteries in [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/). It allows you to control how quickly radios drain and disables recharging them with battery items.
 
 ---
 
