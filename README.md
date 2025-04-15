@@ -8,7 +8,7 @@ A plugin for [EXILED](https://github.com/Exiled-Team/EXILED) that enhances the b
 
 - 🔋 **Customizable battery drain**: Adjust how quickly radios lose battery power.
 - 🚫 **Disabled Drain while dropped**: Prevent battery drain while not in use.
-- ⚙️ **Fully configurable**
+- ⚙️ **Fully configurable**: To keep the radio balanced however _YOU_ like.
 
 ---
 
@@ -25,4 +25,10 @@ A plugin for [EXILED](https://github.com/Exiled-Team/EXILED) that enhances the b
 ```yaml
 is_enabled: true
 debug: false
-drain_multiplier: 1.0 #Lower values mean lower drain!
+#Global multiplier for all ranges
+drain_multiplier: 1.0
+# Multipliers based on radio range
+short_range_multiplier: 1.0
+middle_range_multiplier: 1.0
+long_range_multiplier: 1.0
+ultra_range_multiplier: 1.0
