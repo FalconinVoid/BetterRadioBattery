@@ -1,2 +1,0 @@
-# BetterRadioBattery
-Inspired by UnlimitedRadioBattery
